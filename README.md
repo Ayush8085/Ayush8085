@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif"
 
 - 😊 My favourite language is **Java**
