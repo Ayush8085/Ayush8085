@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif"
 
-- 😊 My favourite language is **Java**
+- 😊 My favourite language is **Java.**
 
-- 🌱 I’m currently learning **Python for Data Science and Machine Learning**
+- 🌱 I’m currently learning **Django in Python.**
 
 - 📫 How to reach me **ayushkumar9601@gmail.com**
 
-- ⚡ Fun fact **I laugh too much**
+- ⚡ Fun fact **I laugh too much.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
