@@ -4,7 +4,7 @@
 
 - 😊 My favourite language is **Java.**
 
-- 🌱 My favourite Frameword **Django in Python.**
+- 🌱 My favourite Framework **Django in Python.**
 
 - 📫 How to reach me **ayushkumar9601@gmail.com**
 
