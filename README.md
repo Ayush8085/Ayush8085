@@ -27,4 +27,4 @@
 
 ## Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ayush_8085?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ayush_8085)
